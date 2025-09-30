@@ -93,5 +93,8 @@ img[src="Photos/AngK.jpg"]{
     width: auto;   /* keeps height fixed */
 }
 
-  
+.buttons button{
+    background-color: rgba(7, 155, 241, 0);
+    border: none;
+} 
     
