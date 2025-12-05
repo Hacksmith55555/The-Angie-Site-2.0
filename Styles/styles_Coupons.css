@@ -1,0 +1,19 @@
+.Angiew {
+    display: flex;              /* enable flexbox */
+    justify-content: center;    /* center horizontally */
+    align-items: center;        /* center vertically */
+    height: 100vh;              /* full viewport height */
+    background-color: black; /* keeps page from scrolling */
+}
+
+.Angiew img {
+    
+    max-height: 100%;
+    max-width: 100%; /* prevents image from overflowing container */
+    height: auto;
+    width: auto;   /* keeps height fixed */
+}
+
+body{
+    background-image: linear-gradient(to top, rgb(0, 0, 0), rgba(0, 0, 0, 0.966));
+}
